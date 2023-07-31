@@ -34,10 +34,9 @@ Available Options:
   ignore: Do not output any warnings or errors, the action does not fail
 
 if-no-files-found: 0
-    # Duration after which artifact will expire in days. 0 means using default retention.
-Minimum 1 day. Maximum 90 days unless changed from the repository settings page.
+   
 
-    retention-days: # optional
+retention-days: # optional
     
 - name: Release Upload
   # You may pin to the exact commit or the version.
