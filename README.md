@@ -4,7 +4,7 @@
 
 # Running
 
-Simply download from relases and
+Simply download from releases and
 
   ./staticsitegenerator
 
