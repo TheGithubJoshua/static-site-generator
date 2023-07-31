@@ -49,7 +49,7 @@ Minimum 1 day. Maximum 90 days unless changed from the repository settings page.
     token: secrets.GITHUB_TOKEN
     # A list of files to publish, relative to the repository root.
 
-The files must be specified as a newline-delimited list of paths.
+
 
 ```yaml
 with:
