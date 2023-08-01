@@ -6,7 +6,7 @@
 
 Simply download from releases and
 
-  ./staticsitegenerator
+  ./staticsitegenerator (start staticsitegenerator.exe on Windows)
 
 ### Commands
 
