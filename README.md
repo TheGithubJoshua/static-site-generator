@@ -22,7 +22,7 @@ Starts the web server on port 8080
 
 ### Clone Repo
 
-  git clone github.com/TheGithubJoshua/static-site-generator
+  git clone https://github.com/TheGithubJoshua/static-site-generator
   cd static-site-generator
 
 ### Install Dependencies
