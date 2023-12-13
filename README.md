@@ -18,7 +18,7 @@ Creates the files (With boilerplates)
 
 Starts the web server on port 8080
 
-# Building
+# Building (To build you MUST be using Go 1.16, for easily switching betwwen GO versions, I would recommend gvm)
 
 ### Clone Repo
 
